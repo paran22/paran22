@@ -7,5 +7,6 @@
 - GitHub : https://github.com/HangHae99Zzz
 <br>
 
-## 💬 개발블로그 : https://paran21.tistory.com
+#### 💬 [개발블로그](https://paran21.tistory.com)
+#### 💬 [Linkedin](https://www.linkedin.com/in/%EA%B0%80%EC%9D%80-%EA%B9%80-357573237/)
 <br>
