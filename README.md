@@ -7,6 +7,7 @@
 - GitHub : https://github.com/HangHae99Zzz
 <br>
 
+#### 💬 [이력서](https://www.notion.so/4f5f16e3675d4153991771e475615a39)
 #### 💬 [개발블로그](https://paran21.tistory.com)
 #### 💬 [Linkedin](https://www.linkedin.com/in/%EA%B0%80%EC%9D%80-%EA%B9%80-357573237/)
 <br>
