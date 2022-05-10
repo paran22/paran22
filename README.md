@@ -1,5 +1,5 @@
 # 🚀 Kim Gaeun
-항해99에서 개발자로 거듭나기 위해 준비하고 있어요!
+개발자
 <br>
 
 ## 🍄 진행 중 프로젝트
@@ -7,7 +7,6 @@
 - GitHub : https://github.com/HangHae99Zzz
 <br>
 
-#### 💬 [이력서](https://www.notion.so/4f5f16e3675d4153991771e475615a39)
 #### 💬 [개발블로그](https://paran21.tistory.com)
 #### 💬 [Linkedin](https://www.linkedin.com/in/%EA%B0%80%EC%9D%80-%EA%B9%80-357573237/)
 <br>
