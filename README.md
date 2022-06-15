@@ -8,5 +8,5 @@
 <br>
 
 #### 💬 [개발블로그](https://paran21.tistory.com)
-#### 💬 [Linkedin][(https://www.linkedin.com/in/%EA%B0%80%EC%9D%80-%EA%B9%80-357573237/](https://www.linkedin.com/in/gaeun-kim-357573237/))
+#### 💬 [Linkedin](https://www.linkedin.com/in/gaeun-kim-357573237/)
 <br>
