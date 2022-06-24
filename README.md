@@ -9,4 +9,7 @@
 
 #### 💬 [개발블로그](https://paran21.tistory.com)
 #### 💬 [Linkedin](https://www.linkedin.com/in/gaeun-kim-357573237/)
+#### 💬 [e-mail](knospe1@naver.com)
 <br>
+
+![](https://komarev.com/ghpvc/?username=paran22&color=blueviolet)
