@@ -1,11 +1,15 @@
 # 🚀 Kim Gaeun
 <br>
+Flutter로 앱개발하고 있어요! IOS도 공부하고 있습니다.
+<br>
+
 고고학과 문헌정보학을 공부했고, 사람들에게 도움이 되는 무언가를 직접 만들고 싶어서 개발을 시작하게 되었습니다.
 <br><br>
 내가 재미있어서 공부하는 것이 팀에도 도움이 될 수 있는 곳에서 일하고 싶어요!
 <br><br>
 이해하기 쉽고, 누구나 고치기 쉬운 코드를 작성하고 싶습니다.
 <br>
+
 
 ## 📚 기술스택
 <div align=center>
@@ -23,7 +27,8 @@
 - GitHub : https://github.com/HangHae99Zzz
 <br>
 
-#### 💬 [개발블로그](https://paran21.tistory.com)
+#### 💬 [개발블로그](https://velog.io/@paran22)
+#### 💬 [개발블로그(구)](https://paran21.tistory.com)
 #### 💬 [Linkedin](https://www.linkedin.com/in/gaeun-kim-357573237/)
 #### 💬 e-mail: knospe1@naver.com
 <br>
