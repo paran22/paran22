@@ -22,8 +22,7 @@ Flutter로 앱개발하고 있어요! IOS도 공부하고 있습니다.
 - GitHub : https://github.com/HangHae99Zzz
 <br>
 
-#### 💬 [개발블로그](https://velog.io/@paran22)
-#### 💬 [개발블로그(구)](https://paran21.tistory.com)
+#### 💬 [개발블로그](https://paran21.tistory.com)
 #### 💬 [Linkedin](https://www.linkedin.com/in/gaeun-kim-357573237/)
 #### 💬 e-mail: knospe1@naver.com
 <br>
