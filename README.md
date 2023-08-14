@@ -1,8 +1,8 @@
 # 🚀 Kim Gaeun
 <br>
-Flutter로 앱개발하고 있어요! IOS도 공부하고 있습니다.
+좋은 서비스를 만드는 개발자가 되고 싶어요.
 <br><br>
-이해하기 쉽고, 누구나 고치기 쉬운 코드를 작성하고 싶습니다.
+프론트엔드 개발자로서, 1. 좋은 ui/ux와 2. 유지보수하기 쉬운 코드를 추구합니다.
 <br><br>
 
 
@@ -10,6 +10,9 @@ Flutter로 앱개발하고 있어요! IOS도 공부하고 있습니다.
 <div align=center>
   <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
   <br>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
