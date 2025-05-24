@@ -1,6 +1,6 @@
 # 🚀 Kim Gaeun
 <br>
-좋은 서비스를 만드는 개발자가 되고 싶어요.
+좋은 서비스를 만드는 개발자가 되고 싶어요.😆
 <br><br>
 
 
@@ -10,11 +10,15 @@
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
   <br>
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white"/>
-  <br>
   <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 </div>
+
+## 교육
+#### 항해 플러스 AI 3기 수료(2025)
+<a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
+</a>
 
 
 ## 🍄 사이드 프로젝트
@@ -33,3 +37,4 @@ Zzz project "함께 얘기하며 즐기는 온라인 3D 방탈출!!"
 <br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fparan22&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
